@@ -1,0 +1,10 @@
+//Hello World Program
+#include<iostream>
+using namespace std;
+int main()
+{
+   // instead of std:: each time,  you can write namespace
+   cout<<"HELLO WORLD"<<endl;
+   cout<<"My first program";
+    return 0;
+}
