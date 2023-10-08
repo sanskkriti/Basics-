@@ -28,7 +28,7 @@ Hello World programs are traditionally used to demonstrate how the coding proces
 
 
 
-![Hello world](https://github.com/Purvansha022609/Basic/assets/139473344/17549f53-8c30-4869-8284-b26c5f601d7f)
+![Hello world]![helloworld](https://github.com/sanskkriti/Basics-/assets/140137289/1cec757d-df20-4243-b156-87c7fdc6b77f)
 
 
 # **AIM-2**
@@ -71,3 +71,6 @@ Calculators have widely used devices nowadays. It makes calculations easier and 
 This algorithm outlines the basic structure of a calculator program using switch cases. It allows the user to choose an operation, enter two numbers, perform the calculation, and display the result. Additionally, it includes error handling for division by zero and provides the option to perform multiple calculations or exit the program.
 
 ### **OUTPUT**
+
+![Calculator]!![b0bef2c9-c7ef-49d3-aef2-13d0da0a4d7f](https://github.com/sanskkriti/Basics-/assets/140137289/8657210e-97b8-4cbf-b9a8-8568521b36db)
+
