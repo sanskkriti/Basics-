@@ -52,14 +52,16 @@ int multiplication;
 }
 }
 /*OUTPUT
-enter first number5
-enter second number5
-the sum of two numbers is 10
-enter first number5
-enter the second number5
-the subtraction of two number is 0
-enter the first number2
-enter the second number2
-the multiplication of two number is 4
+enter first number1
+enter second number2
+the sum of two numbers is3
+enter first number
+4
+enter the second number
+5
+the subtraction of two number is-1
+enter the first number7
+enter the second number3
+the multiplication of two number is 21
 */
 
