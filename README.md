@@ -23,12 +23,10 @@ Hello World programs are traditionally used to demonstrate how the coding proces
 8. Compile and run this code, and it will print "Hello, World!" to the console.
    
 ### **OUTPUT**
+![helloworld](https://github.com/sanskkriti/Basics-/assets/140137289/784c8b30-54c7-4670-8fa3-3d36e510ea98)
 
 
 
-
-
-[helloworld](https://github.com/sanskkriti/Basics-/assets/140137289/1cec757d-df20-4243-b156-87c7fdc6b77f)
 
 
 # **AIM-2**
